@@ -32,8 +32,8 @@
 
 | Version | What you get | Price | Link |
 |---------|--------------|-------|------|
-| **Free** | Ready-to-use, encrypted build | Free | *(Tebex link here)* |
-| **Open source** | Full editable source code | €5 | *(Tebex link here)* |
+| **Free** | Ready-to-use, encrypted build | Free | *( https://t-h-i-b-l-o-o-t-n.tebex.io/package/7547534 )* |
+| **Open source** | Full editable source code | €5 | *( https://t-h-i-b-l-o-o-t-n.tebex.io/package/7547539 )* |
 
 ## 🧩 Dependencies
 
