@@ -44,7 +44,10 @@
 
 ## 🖼️ Preview
 
-*(Add screenshots / a short GIF of placing a radio and the /radioadmin menu here.)*
+<img width="831" height="662" alt="image" src="https://github.com/user-attachments/assets/e0795d9a-c7a9-4655-8668-6e897a6d40a2" /> <img width="634" height="585" alt="image" src="https://github.com/user-attachments/assets/ddd8ec5c-e0a8-4b41-b15c-805a04809699" /> <img width="919" height="846" alt="image" src="https://github.com/user-attachments/assets/70f96c93-f6db-45a7-b976-e2f5d5da2fcc" /> <img width="821" height="612" alt="image" src="https://github.com/user-attachments/assets/191dec08-d3dd-43ff-9cb7-28bd5f741616" /> <img width="742" height="675" alt="image" src="https://github.com/user-attachments/assets/ede7a23f-9492-4246-8fbf-8053f26979c7" /> <img width="827" height="723" alt="image" src="https://github.com/user-attachments/assets/aaa9dfbc-b910-4430-a32a-b934b6c907e1" />
+
+
+
 
 ## 💬 Support
 
